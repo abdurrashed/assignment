@@ -139,6 +139,45 @@ border-radius: 5px;
 border:2px solid #fff;
 }
 
+.section4{
+display: flex;
+background-color: black;
+height: 300px;
+gap:300px;
+}
+
+.footer-title{
+
+    color: #F8F8F8;
+    font-family: Work Sans;
+    font-size: 45px;
+    font-weight: 700;
+  
+
+}
+.footer-description{
+
+    width: 485px;
+    color: #FFF;
+    font-family: Work Sans;
+    font-size: 16px;
+    font-weight: 400;
+
+}
+
+.footer-div{
+
+padding:80px 230px;
+
+
+}
+.footer-divv{
+
+    padding-top:80px ;
+    
+    
+    }
+
 
 
 
